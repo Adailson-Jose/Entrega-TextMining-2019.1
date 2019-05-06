@@ -1,2 +1,2 @@
 # Entrega-TextMining-2019.1
-Entrega das listas 01 a 04 da disciplina Text Mining.
+Entrega das listas 01 a 04 da disciplina Text Mining, nesse repositório há 3 branch, sendo a master com as lista 02 a 04 mais um PDF contendo os prints dos resultados de saídas de códigos desenvolvidos na disciplina. Já os dois outros ramos se dividem em (Entrega-de-Adailson), onde há apenas as respostas da lista 01 de forma individual, e no outro ramos há a (Entrega-de-Matheus) da lista 01 também de forma individual. 
